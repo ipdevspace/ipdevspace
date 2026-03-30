@@ -1,7 +1,6 @@
 # 👋 Hola, soy Iván — IPDev Space 🚀
 
-💻 Ingeniero en Tecnologías de la Información  
-📓 Solo un tipo aprendiendo y construyendo software    
+💻 Ingeniero en Tecnologías de la Información    
 
 > "No solo se trata de escribir código, sino de entender el proceso."
 
